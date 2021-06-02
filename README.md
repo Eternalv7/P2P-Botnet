@@ -1,2 +1,2 @@
-# P2P-Botnet
-Developing a encrypted P2P Botnent
+# P2P-Botnet-Architecture 
+Developing a encrypted P2P Botnent-Architecture 
