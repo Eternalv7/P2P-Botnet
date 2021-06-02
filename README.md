@@ -1,7 +1,6 @@
 # P2P-Botnet-Architecture 
 Developing a encrypted P2P Botnent-Architecture 
-ANY HELP WANTED. IF YOU ARE INTERESTED IN DEVELOPING:
-EMAIL ME: hacker5preme@protonmail.com
+# ANY HELP WANTED. IF YOU ARE INTERESTED IN DEVELOPING: EMAIL ME: hacker5preme@protonmail.com
 # This is in the making, NOT WORKING !!!
 
 # Botnet-IDEA:
