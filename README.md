@@ -1,8 +1,8 @@
 # P2P-Botnet-Architecture 
+# Starting on 15.06.2021
 Developing a encrypted P2P Botnent-Architecture 
 HELP WANTED. IF YOU ARE INTERESTED IN DEVELOPING: EMAIL ME: hacker5preme@protonmail.com
 This is in the making, NOT WORKING !!!
-# Starting on 15.06.2021
 
 # Botnet-IDEA:
 
